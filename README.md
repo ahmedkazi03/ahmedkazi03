@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmedkazi03
 - 👀 I’m interested in Machine Learning & AI
 - 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ML & AI projects.
 - 📫 How to reach me : kazirifatahmed03@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
