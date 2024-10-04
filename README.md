@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning & AI
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on ML & AI projects.
-- 📫 How to reach me : kazirifatahmed03@gmail.com
+- 📫 You can reach me via : kazirifatahmed03@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
