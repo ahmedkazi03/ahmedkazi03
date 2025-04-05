@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KAZI RIFAT AHMED
+- 👋 Hi, I’m Kazi Rifat Ahmed
 -  I’m interested in Machine Learning & AI
 -  I’m currently learning PYTHON
 -  I’m looking to collaborate on ML & AI projects.
